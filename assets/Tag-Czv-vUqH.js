@@ -132,4 +132,4 @@ It is still considered as visible.`},fadePartiallyVisibleItems:{required:!1,tsTy
 
   color: var(--tag-color);
   background-color: var(--tag-bg-color);
-`;Ys.__docgenInfo={description:"Customizable `tag` with a unique color based on the value.\nFor children with custom styles, the following `CSS` variables are available:\n- `--tag-color`: The text color of the tag.\n- `--tag-bg-color`: The background color of the tag.",methods:[],displayName:"Tag"};export{qr as B,Nt as C,At as I,er as S,Va as T,nr as a,sa as b,Ys as c,Pr as d,Ua as e,li as f,Ea as g,dn as h,rl as i,Lt as j};
+`;Ys.__docgenInfo={description:"Customizable `tag` with a unique color based on the value.\nFor children with custom styles, the following `CSS` variables are available:\n- `--tag-color`: The text color of the tag.\n- `--tag-bg-color`: The background color of the tag.",methods:[],displayName:"Tag"};export{qr as B,Nt as C,At as I,er as S,Va as T,nr as a,Ys as b,Pr as c,Ua as d,li as e,sa as f,Ea as g,dn as h,rl as i,Lt as j};
